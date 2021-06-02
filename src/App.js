@@ -1,7 +1,7 @@
 import "./App.css";
 import { useState } from "react";
-import { useForm } from "react-hook-form";
 import "animate.css";
+import { useForm } from "react-hook-form";
 function App() {
 	const [Ans, setAns] = useState("");
 	const [ch, setch] = useState("");
