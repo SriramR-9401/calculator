@@ -1,6 +1,5 @@
 import "./App.css";
 import { useState } from "react";
-
 import "animate.css";
 import { useForm } from "react-hook-form";
 function App() {
