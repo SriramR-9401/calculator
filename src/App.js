@@ -17,7 +17,7 @@ function App() {
 		<div className="App pt-5 bg-info" style={{ height: "100vh" }}>
 			<div
 				className="w-50 p-5 shadow bg-light"
-				style={{ minWidth: "325px", margin: "auto" }}
+				style={{ minWidth: "320px", margin: "auto" }}
 			>
 				<h4 className="p-3">Simple Calculator using React</h4>
 				<form onSubmit={handleSubmit((data) => console.log(data))}>
